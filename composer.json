@@ -1,0 +1,7 @@
+{
+    "name": "vendor/gestiondescargas",
+    "description": "descarga de archivos",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
